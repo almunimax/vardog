@@ -8,6 +8,14 @@ public class Main {
         System.out.println(cat);
         var paper = 763789;
         System.out.println(paper);
+        // задача 2
+        System.out.println("задача 2");
+        dog = dog + 4;
+        System.out.println(dog);
+        cat = cat + 4;
+        System.out.println(cat);
+        paper = paper + 4;
+        System.out.println(paper);
 
 
 
